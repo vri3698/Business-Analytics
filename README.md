@@ -1,4 +1,4 @@
-# Business Analytics Course Repository
+# Business Analytics Repository
 
 ## Overview
 This Git repository summarizes the key learnings and technical skills acquired during the Business Analytics course. The course focused on leveraging data-driven decision-making, exploring analytics techniques, and applying them to real-world case studies. The syllabus covered a range of topics, from explaining phenomena to predicting future trends and optimizing actions.
