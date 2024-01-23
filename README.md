@@ -25,7 +25,6 @@ The course followed the explain/predict/optimize framework, dividing the content
 2. **Difference-in-Differences Evaluation:** Applying DiD analysis to Hillside students' data, considering regression to the mean, and comparing different approaches.
 3. **Hotel Occupancy Simulation:** Simulating hotel bookings, optimizing occupancy, and determining the optimal number of reservations.
 4. **Linear Programming Optimization:** Formulating and solving linear programming problems for a computer manufacturing business.
-5. **Profit Optimization for a Bakery:** Using simulations to optimize the number of croissants produced for maximum profit.
 6. **Optimizing Production for Profit:** Solving an optimization problem to maximize net profit for a manufacturing business.
 
 ## Conclusion
